@@ -2,9 +2,7 @@ import Vue from 'vue'
 import Router from 'vue-router'
 import Login from './views/Login.vue'
 import Main from './views/Main.vue'
-
 import GlobalSettings from './views/GlobalSettings.vue'
-
 import TableList from './views/TableList.vue'
 import TableAdd from './views/TableAdd.vue'
 import TableDelete from './views/TableDelete.vue'
