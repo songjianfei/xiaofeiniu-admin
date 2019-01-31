@@ -12,7 +12,13 @@
 </template>
 <script>
 export default {
-    props:['data']
+    props:['data'],
+    methods: {
+        
+    },
+    created() {
+        
+    },
 }
 </script>
 <style lang="scss">
