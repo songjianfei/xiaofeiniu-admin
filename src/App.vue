@@ -1,6 +1,5 @@
 <template>
   <div id="app">
-    <!--<h6>{{$store.state.globalSettings}}</h6>-->
     <router-view />
   </div>
 </template>
